@@ -1,1 +1,1 @@
-# HashMap
+Implementing a HashMap in js using linkedlists to deal with collisons.
