@@ -1,1 +1,2 @@
 Implementing a HashMap in js using linkedlists to deal with collisons.
+And added a overwritting functionality, so if the key already exited the new value will take the place of the old value and the key stays the same.
